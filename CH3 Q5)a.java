@@ -35,5 +35,6 @@ public class TI
         {
             System.out.println("ERROR");
         }
+        System.out.println("Thank You");
     }    
 }
